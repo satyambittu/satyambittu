@@ -12,14 +12,14 @@
 
 ## 🎓 About Me
 - Third‑year B.Tech in Information Technology @ IIIT Allahabad  
-- Full‑Stack Developer | Competitive Programmer  
-- Passionate about Open Source, Cloud, and AI/ML  
+-  Competitive Programmer  
+- Passionate about Machine Learning and Artificial Intelligence  
 
 ---
 
 ## 🛠️ Tech Stack & Experience
 
-| Frontend                     | Backend                        | DevOps & Cloud         |
+| Frontend                     | Backend                        | Cloud         |
 | ---------------------------- | ------------------------------ | ---------------------- |
 | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)     |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
@@ -50,15 +50,15 @@
 ## 💼 Featured Projects
 
 ### Employee Management System  
-![EMS Demo](https://media.giphy.com/media/3o7aD6h55Tc3SuUmu0/giphy.gif)  
+<!-- ![EMS Demo](https://media.giphy.com/media/3o7aD6h55Tc3SuUmu0/giphy.gif)   -->
 _Full‑Stack CRUD app with role‑based auth (Node.js, Express, MongoDB)_
 
 ### Food Delivery App  
-![Food App Demo](https://media.giphy.com/media/UIsVZ4wLxTnqI/giphy.gif)  
+<!-- ![Food App Demo](https://media.giphy.com/media/UIsVZ4wLxTnqI/giphy.gif)   -->
 _Android app with real‑time orders & Firebase backend (Kotlin, Firebase)_
 
 ### Stake.com Clone  
-![Stake Clone Demo](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)  
+<!-- ![Stake Clone Demo](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)   -->
 _Interactive front‑end simulation of gaming site (HTML, CSS, JavaScript)_
 
 ---

@@ -61,7 +61,16 @@ _Android app with real‑time orders & Firebase backend (Kotlin, Firebase)_
 <!-- ![Stake Clone Demo](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)   -->
 _Interactive front‑end simulation of gaming site (HTML, CSS, JavaScript)_
 
+### Sketch‑to‑Image Generator (ML Project)  
+<!-- ![ML Demo](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)   -->
+_Convolutional neural network that transforms hand‑drawn sketches into photorealistic images (Python, TensorFlow, Flask)_
+
+### BMI Calculator App  
+<!-- ![BMI Calculator Demo](https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif)   -->
+_Android app to calculate and track Body Mass Index with Java and XML UI, featuring input validation and graphical result display_
+
 ---
+
 
 ## 📫 Let’s Connect
 

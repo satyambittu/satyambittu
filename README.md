@@ -41,9 +41,9 @@
 
 | Platform      | Rank / Rating                                    | Profile                                              |
 | ------------- | ------------------------------------------------- | ---------------------------------------------------- |
-| CodeForces    | 🟢 Specialist                                    | [coder__mann](https://codeforces.com/profile/coder__mann) |
+| CodeForces    | 🟢 Expert                                    | [coder__mann](https://codeforces.com/profile/coder__mann) |
 | CodeChef      | ⭐⭐⭐ 3‑Star<br/>Global Rank 40 (Starters 183)      | [satyam_012](https://www.codechef.com/users/satyam_012)       |
-| LeetCode      | Solved 350+ problems (Top 20%)                    | [satyambittu60](https://leetcode.com/u/satyambittu60/)        |
+| LeetCode      | Solved 390+ problems (Top 20%)                    | [satyambittu60](https://leetcode.com/u/satyambittu60/)        |
 
 ---
 

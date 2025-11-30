@@ -88,7 +88,7 @@
 - Email: <a href="mailto:satyambittu60@gmail.com">satyambittu60@gmail.com</a>  
 - LinkedIn: https://www.linkedin.com/in/satyam-kumar-0877ba248/  
 - GitHub: https://github.com/satyambittu  
-- Resume: `/resume.pdf` (place `resume.pdf` at repo root or `public/` for portfolio)
+- Resume: https://drive.google.com/file/d/1238UCqEYN4cJraY-MXg7n3On2SVq72OX/view?usp=sharing
 
 ---
 

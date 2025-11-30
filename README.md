@@ -1,84 +1,105 @@
 <!--
-  README.md for GitHub Profile
+  README.md — Personal GitHub Profile for Satyam Kumar
+  Updated: 2025-12-01
   Author: Satyam Kumar
-  Description: Profile landing page with GIFs, badges, stats, projects, and contact info.
 -->
 
-# 👋 Hi, I’m Satyam Kumar
+<h1 align="center">👋 Hi, I'm <strong>Satyam Kumar</strong></h1>
+<p align="center">
+  <em>Third-year B.Tech (IT) • Competitive Programmer • ML & Web Developer</em>
+</p>
 
-![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
----
-
-## 🎓 About Me
-- Third‑year B.Tech in Information Technology @ IIIT Allahabad  
--  Competitive Programmer  
-- Passionate about Machine Learning and Artificial Intelligence  
-
----
-
-## 🛠️ Tech Stack & Experience
-
-| Frontend                     | Backend                        | Cloud         |
-| ---------------------------- | ------------------------------ | ---------------------- |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)     |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)   | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)    |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)      | ![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white) |                        |
-| ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)         |                        |
+<p align="center">
+  <a href="https://github.com/satyambittu"><img alt="GitHub followers" src="https://img.shields.io/github/followers/satyambittu?label=Follow&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/satyam-kumar-0877ba248/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:satyambittu60@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🔭 About me
+- 🎓 Third-year B.Tech in Information Technology — IIIT Allahabad  
+- 💡 I enjoy building polished front-end experiences, solving algorithmic problems, and experimenting with ML models.  
+- 🔭 Currently: improving my portfolio UI and building ML experiments.  
+- 📫 Reach me: **satyambittu60@gmail.com**
 
-![Satyam’s GitHub stats](https://github-readme-stats.vercel.app/api?username=satyambittu&show_icons=true&theme=radical)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyambittu&layout=compact&theme=radical)
+## 🛠 Tech stack (primary)
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img alt="Tailwind" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img alt="Node" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+
+---
+
+## 🚩 Highlights
+- Clean, responsive portfolio UI (React + Vite + Tailwind) — editable via `src/data/*` files.  
+- Strong competitive programming record and many algorithmic solutions.  
+- Projects include full-stack CRUD apps, Android apps, ML prototypes, and UI demos.
+
+---
+
+## 💼 Featured projects
+> Click project titles to open the GitHub repo or demo (replace placeholders with your links).
+
+### 1) **Employee Management System** — _Full-stack CRUD_
+- Tech: Node.js, Express, MongoDB, React  
+- Features: Role-based auth, CRUD, dashboard, search & filters.  
+- Repo: `https://github.com/satyambittu/employee-management`  
+- Demo: `https://your-demo-link` (replace)
+
+### 2) **Food Delivery App (Android)** — _Real-time orders_
+- Tech: Kotlin, Firebase  
+- Features: Order tracking, push notifications, rider flow.  
+- Repo: `https://github.com/satyambittu/food-delivery-app`  
+
+### 3) **Sketch-to-Image Generator (ML)** — _Research prototype_
+- Tech: Python, TensorFlow, Flask  
+- Features: CNN-based sketch transformer, lightweight web UI.  
+- Repo: `https://github.com/satyambittu/sketch-to-image`  
+
+> ⚒️ _Note_: Update `src/data/projects.js` in your portfolio to change these entries (title, description, links, images).
 
 ---
 
 ## 🏆 Competitive Programming
-
-| Platform      | Rank / Rating                                    | Profile                                              |
-| ------------- | ------------------------------------------------- | ---------------------------------------------------- |
-| CodeForces    | 🟢 Expert                                    | [coder__mann](https://codeforces.com/profile/coder__mann) |
-| CodeChef      | ⭐⭐⭐ 3‑Star<br/>Global Rank 40 (Starters 183)      | [satyam_012](https://www.codechef.com/users/satyam_012)       |
-| LeetCode      | Solved 390+ problems (Top 20%)                    | [satyambittu60](https://leetcode.com/u/satyambittu60/)        |
-
----
-
-## 💼 Featured Projects
-
-### Employee Management System  
-<!-- ![EMS Demo](https://media.giphy.com/media/3o7aD6h55Tc3SuUmu0/giphy.gif)   -->
-_Full‑Stack CRUD app with role‑based auth (Node.js, Express, MongoDB)_
-
-### Food Delivery App  
-<!-- ![Food App Demo](https://media.giphy.com/media/UIsVZ4wLxTnqI/giphy.gif)   -->
-_Android app with real‑time orders & Firebase backend (Kotlin, Firebase)_
-
-### Stake.com Clone  
-<!-- ![Stake Clone Demo](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)   -->
-_Interactive front‑end simulation of gaming site (HTML, CSS, JavaScript)_
-
-### Sketch‑to‑Image Generator (ML Project)  
-<!-- ![ML Demo](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)   -->
-_Convolutional neural network that transforms hand‑drawn sketches into photorealistic images (Python, TensorFlow, Flask)_
-
-### BMI Calculator App  
-<!-- ![BMI Calculator Demo](https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif)   -->
-_Android app to calculate and track Body Mass Index with Java and XML UI, featuring input validation and graphical result display_
+| Platform | Handle | Notes |
+|---|---:|---|
+| Codeforces | `coder__mann` | Expert rank — active contest participation |
+| CodeChef | `satyam_012` | 3★ (Starters) — strong practice history |
+| LeetCode | `satyambittu60` | 390+ problems solved — strong DS/Algo practice |
 
 ---
 
-
-## 📫 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-kumar-0877ba248/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyambittu)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyambittu60@gmail.com)
+## 📊 GitHub stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satyambittu&show_icons=true&theme=radical" alt="GitHub stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyambittu&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=satyambittu&color=blue)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=satyambittu&theme=radical)](https://git.io/streak-stats)
+## 📫 Contact & Links
+- Email: <a href="mailto:satyambittu60@gmail.com">satyambittu60@gmail.com</a>  
+- LinkedIn: https://www.linkedin.com/in/satyam-kumar-0877ba248/  
+- GitHub: https://github.com/satyambittu  
+- Resume: `/resume.pdf` (place `resume.pdf` at repo root or `public/` for portfolio)
+
+---
+
+## ⚙️ Keep this README & portfolio up to date
+- Update content in `src/data/` (projects, skills, images) — the site reads content from these files.  
+- To update README here, edit this file and push to GitHub.
+
+### Quick commands to push this updated README
+```bash
+# from your project root (or repo clone)
+git add README.md
+git commit -m "chore: update polished README"
+git push origin main

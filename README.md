@@ -6,7 +6,7 @@
 
 <h1 align="center">👋 Hi, I'm <strong>Satyam Kumar</strong></h1>
 <p align="center">
-  <em>Third-year B.Tech (IT) • Competitive Programmer • ML & Web Developer</em>
+  <em>Final-year B.Tech (IT) • Competitive Programmer • ML & Web Developer</em>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ---
 
 ## 🔭 About me
-- 🎓 Third-year B.Tech in Information Technology — IIIT Allahabad  
+- 🎓 Final-year B.Tech in Information Technology — IIIT Allahabad  
 - 💡 I enjoy building polished front-end experiences, solving algorithmic problems, and experimenting with ML models.  
 - 🔭 Currently: improving my portfolio UI and building ML experiments.  
 - 📫 Reach me: **satyambittu60@gmail.com**
@@ -71,8 +71,7 @@
 | Platform | Handle | Notes |
 |---|---:|---|
 | Codeforces | `coder__mann` | Expert rank — active contest participation |
-| CodeChef | `satyam_012` | 3★ (Starters) — strong practice history |
-| LeetCode | `satyambittu60` | 390+ problems solved — strong DS/Algo practice |
+| LeetCode | `coder_man_` | Knight — strong DS/Algo practice |
 
 ---
 
